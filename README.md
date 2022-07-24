@@ -33,10 +33,10 @@ For more informaiton about Vimeo90k, please refer to [TOFlow](https://github.com
 
 ### Additional Results Video
 - orignal video
-![image](./results/fps30.gif)
+![video](./results/fps30.gif)
 
 - Interpolation result of video
-![image](./results/fps60.gif)
+![video](./results/fps60.gif)
 
 ## Acknowledgements
 This code is based on [Lee/AdaCoF](https://github.com/HyeongminLEE/AdaCoF-pytorch)
