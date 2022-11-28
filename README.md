@@ -37,7 +37,8 @@ For more informaiton about Vimeo90k, please refer to [TOFlow](https://github.com
 
 - Interpolation result of video
 ![video](./results/fps60.gif)
-
+- Two comparison videos (.results/test1.mp4  ./results/test2.pm4)
+Top left: original video; top right: interpolated video (MSEConv); bottom left: AdaCoF; bottom right: AdaCoF+.
 ## Acknowledgements
 This code is based on [Lee/AdaCoF](https://github.com/HyeongminLEE/AdaCoF-pytorch)
 
